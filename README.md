@@ -1,6 +1,6 @@
 <h1 align="center">
 
-**Calcyladora**
+**Calculadora**
 
 </h1>
 
